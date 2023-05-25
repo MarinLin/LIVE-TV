@@ -1,0 +1,825 @@
+#EXTM3U
+#EXTINF:-1 ,tvg-name="北京鸟巢和水立方" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",北京鸟巢和水立方
+https://gc2ksc.v.kcdnvip.com/gc/glxs01_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="北京新首钢大桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",北京新首钢大桥
+https://gcbdc.a.bdydns.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="北京司马台长城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",北京司马台长城
+https://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="古北水镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",古北水镇
+https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="北京海洋馆" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",北京海洋馆
+https://gc2ksc.v.kcdnvip.com/gc/hkts03_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="黄花城水长城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",黄花城水长城
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="天津滨海新区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="天津",天津滨海新区
+https://gc2ksc.v.kcdnvip.com/gc/ljgcszsnkgc_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="河北秦皇岛五峰山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="河北",河北秦皇岛五峰山
+https://gcbdc.a.bdydns.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="河北石家庄正定阳和楼" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="河北",河北石家庄正定阳和楼
+https://gcbdc.a.bdydns.com/gc/sdmzb_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="河北偏桥子镇大贵口村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="河北",河北偏桥子镇大贵口村
+https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="运城解州关帝庙" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="山西",运城解州关帝庙
+https://gc2ksc.v.kcdnvip.com/gc/xjtcmys_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="大同广灵县水神堂" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="山西",大同广灵县水神堂
+https://gcbdc.a.bdydns.com/gc/nywbwg01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="山西太原汾河畔" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="山西",山西太原汾河畔
+https://gc2ksc.v.kcdnvip.com/gc/pygc01_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="内蒙古呼伦贝尔莫日格勒河" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="内蒙古",内蒙古呼伦贝尔莫日格勒河
+https://gctxyc.liveplay.myqcloud.com/gc/gly01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="呼伦贝尔莫尔道嘎白鹿岛" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="内蒙古",呼伦贝尔莫尔道嘎白鹿岛
+https://gcbsc.v.live.baishancdnx.cn/gc/hkylxs01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="内蒙古赤峰马鞍山村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="内蒙古",内蒙古赤峰马鞍山村
+https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="辽宁抚顺纪念馆" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="辽宁",辽宁抚顺纪念馆
+https://gctxyc.liveplay.myqcloud.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="沈阳浑河桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="辽宁",沈阳浑河桥
+https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="大连老虎滩极地馆" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="辽宁",大连老虎滩极地馆
+https://gc2ksc.v.kcdnvip.com/gc/hkts04_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="吉林四平纪念馆" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="吉林",吉林四平纪念馆
+https://gcbdc.a.bdydns.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="黑龙江镜泊湖" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="黑龙江",黑龙江镜泊湖
+https://gcalic.v.myalicdn.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="中车齐车集团有限公司" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="黑龙江",中车齐车集团有限公司
+https://gctxyc.liveplay.myqcloud.com/gc/zhhd01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="哈尔滨霁虹桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="黑龙江",哈尔滨霁虹桥
+https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="上海陆家嘴" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="上海",上海陆家嘴
+https://gctxyc.liveplay.myqcloud.com/gc/jshhd01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="江苏无锡大剧院" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="江苏",江苏无锡大剧院
+https://gcbdc.a.bdydns.com/gc/hkts07_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="江苏南通梵音广场" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="江苏",江苏南通梵音广场
+https://gctxyc.liveplay.myqcloud.com/gc/ylxs12_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="惠山二茅峰" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="江苏",惠山二茅峰
+https://gc2ksc.v.kcdnvip.com/gc/wysdhpcy_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="京杭运河" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="江苏",京杭运河
+https://gc2ksc.v.kcdnvip.com/gc/jsh04_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="南京玄武湖" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="江苏",南京玄武湖
+https://gc2ksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="杭州西湖" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",杭州西湖
+https://gcbdc.a.bdydns.com/gc/cntv468-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="浙江绍兴新昌鼓山天姥阁" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江绍兴新昌鼓山天姥阁
+https://gcalic.v.myalicdn.com/gc/cntv506-zbzg_1/index.m3u8?adapt=0&BR=pub
+
+#EXTINF:-1 ,tvg-name="浙江绍兴新昌城西夜江景" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江绍兴新昌城西夜江景
+https://gc2ksc.v.kcdnvip.com/gc/cntv505-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="温州泰顺县廊桥文化园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",温州泰顺县廊桥文化园
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="浙江东鉴湖糯稻基地" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江东鉴湖糯稻基地
+https://gcbdc.a.bdydns.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="中国石化白鹭自然保护地" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",中国石化白鹭自然保护地
+https://gctxyc.liveplay.myqcloud.com/gc/jsh06_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="浙江温州雁荡山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江温州雁荡山
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="浙江杭州云栖小镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江杭州云栖小镇
+https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="浙江杭州千岛湖" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江杭州千岛湖
+https://gcbdc.a.bdydns.com/gc/caqdh_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="浙江舟山东极岛" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江舟山东极岛
+https://gc2ksc.v.kcdnvip.com/gc/djd01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="浙江乌镇龙形田" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江乌镇龙形田
+https://gc2ksc.v.kcdnvip.com/gc/zjwzlxt_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="浙江乌镇乌镇全景" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江乌镇乌镇全景
+https://gcbdc.a.bdydns.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="浙江乌镇乌镇西市河" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江乌镇乌镇西市河
+https://gctxyc.liveplay.myqcloud.com/gc/zjwzbblh_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="浙江乌镇蓝印花布" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="浙江",浙江乌镇蓝印花布
+https://gcbdc.a.bdydns.com/gc/zjwzlyhb_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="安徽三公山旅游风景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="安徽",安徽三公山旅游风景区
+https://gc2ksc.v.kcdnvip.com/gc/qdls03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="安徽三公山旅游风景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="安徽",安徽三公山旅游风景区
+https://gc2ksc.v.kcdnvip.com/gc/qdls03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="安徽金寨县广场" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="安徽",安徽金寨县广场
+https://gcbdc.a.bdydns.com/gc/jsh03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="安徽黟县卢村远眺" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="安徽",安徽黟县卢村远眺
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="安徽黟县宏村月沼" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="安徽",安徽黟县宏村月沼
+https://gctxyc.liveplay.myqcloud.com/gc/tjhh01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="安徽黟县西递半山亭" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="安徽",安徽黟县西递半山亭
+https://gc2ksc.v.kcdnvip.com/gc/xywfl_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="安徽黟县西递牌坊" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="安徽",安徽黟县西递牌坊
+https://gcbdc.a.bdydns.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="黄山卧云峰" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="安徽",黄山卧云峰
+https://gc2ksc.v.kcdnvip.com/gc/wgw02_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="黄山光明顶" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="安徽",黄山光明顶
+https://gctxyc.liveplay.myqcloud.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="福建武夷山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="福建",福建武夷山
+https://gc2ksc.v.kcdnvip.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="长征出发地纪念园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="江西",长征出发地纪念园
+https://gc2ksc.v.kcdnvip.com/gc/zjjybf_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="江西神山村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="江西",江西神山村
+https://gcbsc.v.live.baishancdnx.cn/gc/djyqyl1_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="山东泰山玉皇顶" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",山东泰山玉皇顶
+https://gc2ksc.v.kcdnvip.com/gc/taishan06_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="山东泰山大观峰" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",山东泰山大观峰
+https://gc2ksc.v.kcdnvip.com/gc/taishan03_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="山东泰山望人松" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",山东泰山望人松
+https://gc2ksc.v.kcdnvip.com/gc/taishan02_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="山东泰山泰山天街" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",山东泰山泰山天街
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="山东青岛五四广场" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",山东青岛五四广场
+https://gc2ksc.v.kcdnvip.com/gc/cntv509-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="济南趵突泉" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",济南趵突泉
+https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="嘉祥纸坊镇现代农业基地" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",嘉祥纸坊镇现代农业基地
+https://gctxyc.liveplay.myqcloud.com/gc/cntv508-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="东营高家村带状种植试验田" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",东营高家村带状种植试验田
+https://gcbdc.a.bdydns.com/gc/cntv510-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="烟台莱州城港路街道" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",烟台莱州城港路街道
+https://gc2ksc.v.kcdnvip.com/gc/cntv507-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="山东昆山党性教育基地" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",山东昆山党性教育基地
+https://gcbdc.a.bdydns.com/gc/zdxq01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="青岛艾山天文台" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",青岛艾山天文台
+https://gctxyc.liveplay.myqcloud.com/gc/jhs01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="七星天文台" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",七星天文台
+https://gctxyc.liveplay.myqcloud.com/gc/hkylxs04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="山东济南华山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",山东济南华山
+https://gc2ksc.v.kcdnvip.com/gc/sdhs_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="山东济南章丘三涧溪村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",山东济南章丘三涧溪村
+https://gcbdc.a.bdydns.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="河南信阳东岳村文化广场" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="河南",河南信阳东岳村文化广场
+https://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive_djy02_2/index.m3u8
+
+#EXTINF:-1 ,tvg-name="京广铁路薛店站" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="河南",京广铁路薛店站
+https://cn-jsyz-ct-03-33.bilivideo.com/live-bvc/983702/live_32384108_29629729/index.m3u8
+
+#EXTINF:-1 ,tvg-name="郑东新区千玺广场" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="河南",郑东新区千玺广场
+https://gctxyc.liveplay.myqcloud.com/gc/ytszyf_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="云台山红石峡" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="河南",云台山红石峡
+https://gc2ksc.v.kcdnvip.com/gc/ytshsx_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="河南信阳汪桥镇思乡谷" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="河南",河南信阳汪桥镇思乡谷
+https://gc2ksc.v.kcdnvip.com/gc/nxsptdmgy_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="河南平顶山叶县高标准农田" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="河南",河南平顶山叶县高标准农田
+https://gctxyc.liveplay.myqcloud.com/gc/ahhs01_1_md.m3u8
+
+#EXTINF:-1 ,tvg-name="王店乡乡村振兴示范基地" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="河南",王店乡乡村振兴示范基地
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="河南南阳南水北调渠首" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="河南",河南南阳南水北调渠首
+https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="宜昌夷陵区樟村坪镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",宜昌夷陵区樟村坪镇
+https://gc2ksc.v.kcdnvip.com/gc/cntv504-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北丹江口碧水连天" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北丹江口碧水连天
+https://gcbdc.a.bdydns.com/gc/cntv516-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北宜昌宜都三江交汇口" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北宜昌宜都三江交汇口
+https://gcalic.v.myalicdn.com/gc/cntv518-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北十堰郧阳区牛头山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北十堰郧阳区牛头山
+https://gc2ksc.v.kcdnvip.com/gc/cntv517-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="荆州洪湖大同湖文化广场" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",荆州洪湖大同湖文化广场
+https://gc2ksc.v.kcdnvip.com/gc/cntv515-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北荆州宾阳楼" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北荆州宾阳楼
+https://gc2ksc.v.kcdnvip.com/gc/cntv430-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北襄阳丁湾村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北襄阳丁湾村
+https://gc2ksc.v.kcdnvip.com/gc/sgns02_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北十堰郧西县五龙河" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北十堰郧西县五龙河
+https://gcalic.v.myalicdn.com/gc/cntv431-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北荆州长江江豚保护区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北荆州长江江豚保护区
+https://gcbdc.a.bdydns.com/gc/cntv429-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北咸宁龙隐山景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北咸宁龙隐山景区
+https://gc2ksc.v.kcdnvip.com/gc/cntv514-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北恩施野三关" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北恩施野三关
+https://gc2ksc.v.kcdnvip.com/gc/cntv503-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北荆州洈水风景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北荆州洈水风景区
+https://gc2ksc.v.kcdnvip.com/gc/cntv428-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北荆州南闸风景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北荆州南闸风景区
+https://gcalic.v.myalicdn.com/gc/cntv427-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北黄冈牛车河风景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北黄冈牛车河风景区
+https://gcbdc.a.bdydns.com/gc/cntv426-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北大冶青龙山景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北大冶青龙山景区
+https://gcalic.v.myalicdn.com/gc/cntv513-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北多祥镇天门工业园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北多祥镇天门工业园
+https://gc2ksc.v.kcdnvip.com/gc/hkylxs07_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="黄石莲花湖湿地公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",黄石莲花湖湿地公园
+https://gc2ksc.v.kcdnvip.com/gc/cntv512-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="宜昌王家岭村柑橘园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",宜昌王家岭村柑橘园
+https://gcbdc.a.bdydns.com/gc/cntv424-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北保康县尧帝神峡" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北保康县尧帝神峡
+https://gctxyc.liveplay.myqcloud.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北通城县雁塔公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北通城县雁塔公园
+https://gc2ksc.v.kcdnvip.com/gc/cntv418-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北恩施佛宝山景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北恩施佛宝山景区
+https://gc2ksc.v.kcdnvip.com/gc/cntv501-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="黄冈蕲春赤龙湖蕲艾小镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",黄冈蕲春赤龙湖蕲艾小镇
+https://gcbdc.a.bdydns.com/gc/hkylxs09_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="随州云峰山茶园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",随州云峰山茶园
+https://gc2ksc.v.kcdnvip.com/gc/hkts02_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="咸宁刘家桥景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",咸宁刘家桥景区
+https://gc2ksc.v.kcdnvip.com/gc/cntv417-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北襄阳南漳县春秋寨景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北襄阳南漳县春秋寨景区
+https://gc2ksc.v.kcdnvip.com/gc/hssxf_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北建始县高坪镇花硒谷" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北建始县高坪镇花硒谷
+https://gcbdc.a.bdydns.com/gc/cntv502-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北宜昌水竹园村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北宜昌水竹园村
+https://gcalic.v.myalicdn.com/gc/cntv415-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="十堰竹山县城区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",十堰竹山县城区
+https://gc2ksc.v.kcdnvip.com/gc/cntv422-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="荆门东桥镇高潮水库风景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",荆门东桥镇高潮水库风景区
+https://gcbdc.a.bdydns.com/gc/cntv419-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="宜昌枝江百里洲" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",宜昌枝江百里洲
+https://gc2ksc.v.kcdnvip.com/gc/cntv423-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北十堰竹溪桃花岛" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北十堰竹溪桃花岛
+https://gcalic.v.myalicdn.com/gc/cntv421-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北荆门京山绿林寨" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北荆门京山绿林寨
+https://gcbdc.a.bdydns.com/gc/cntv420-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="五峰县柴埠溪大峡谷" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",五峰县柴埠溪大峡谷
+https://gcalic.v.myalicdn.com/gc/cntv416-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北远安县桃花岛" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北远安县桃花岛
+https://gcalic.v.myalicdn.com/gc/cntv403-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖北仙桃杨林尾油菜花" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北仙桃杨林尾油菜花
+https://gc2ksc.v.kcdnvip.com/gc/cntv397-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="兴山高铁站" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",兴山高铁站
+https://gc2ksc.v.kcdnvip.com/gc/cntv393-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北十堰武当山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北十堰武当山
+https://gc2ksc.v.kcdnvip.com/gc/cntv432-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖北宜昌许家冲村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖北",湖北宜昌许家冲村
+https://gctxyc.liveplay.myqcloud.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="邵阳崀山将军石" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",邵阳崀山将军石
+https://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="邵阳崀山骆驼峰" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",邵阳崀山骆驼峰
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="陈赓故居" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",陈赓故居
+https://gc2ksc.v.kcdnvip.com/gc/cntv392-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="湖南沙洲瑶族村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",湖南沙洲瑶族村
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖南十八洞村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",湖南十八洞村
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="湖南张家界大峡谷" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",湖南张家界大峡谷
+https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="张家界天门山西线玻璃栈道" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",张家界天门山西线玻璃栈道
+https://gcbdc.a.bdydns.com/gc/fcw01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="张家界天门山天门洞" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",张家界天门山天门洞
+https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="张家界天门山天空步道" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",张家界天门山天空步道
+https://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive_djy03_2/index.m3u8
+
+#EXTINF:-1 ,tvg-name="湘西凤凰古城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",湘西凤凰古城
+https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="张家界武陵源黄石寨六奇阁" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",张家界武陵源黄石寨六奇阁
+https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="张家界武陵源将军列队" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",张家界武陵源将军列队
+https://gc2ksc.v.kcdnvip.com/gc/zjjjjdl_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="张家界武陵源迷魂台" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",张家界武陵源迷魂台
+https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="张家界武陵源宝峰湖" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="湖南",张家界武陵源宝峰湖
+https://gc2ksc.v.kcdnvip.com/gc/zjjbfh_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="珠海大剧院" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广东",珠海大剧院
+https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="海丰万亩丝苗米种植基地" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广东",海丰万亩丝苗米种植基地
+https://gctxyc.liveplay.myqcloud.com/gc/hkts05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广东韶关新丰马头镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广东",广东韶关新丰马头镇
+https://gcbdc.a.bdydns.com/gc/tms02_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广东揭阳普宁练江" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广东",广东揭阳普宁练江
+https://gcbdc.a.bdydns.com/gc/cntv425-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="港珠澳大桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广东",港珠澳大桥
+https://gc2ksc.v.kcdnvip.com/gc/qdls04_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广东汕头市小公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广东",广东汕头市小公园
+https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广州塔与海心桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广东",广州塔与海心桥
+https://gc2ksc.v.kcdnvip.com/gc/ztb_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="七仙岭温泉国家森林公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="海南",七仙岭温泉国家森林公园
+https://gc2ksc.v.kcdnvip.com/gc/emsyh_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="海南热带雨林国家公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="海南",海南热带雨林国家公园
+https://gcbdc.a.bdydns.com/gc/hkts08_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="海南白沙原生态茶园小镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="海南",海南白沙原生态茶园小镇
+https://gctxyc.liveplay.myqcloud.com/gc/zsslsgc_1/index.m3u8?
+
+#EXTINF:-1 ,tvg-name="海南潭门渔港" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="海南",海南潭门渔港
+https://mlivewbndks.v.kcdnvip.com/mlivewbnd/mlive_sls02_2/index.m3u8?BR=td&region=shanghai
+
+#EXTINF:-1 ,tvg-name="南宁南湖" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",南宁南湖
+https://cn-hnld-ct-01-52.bilivideo.com/live-bvc/409469/live_517141898_89057016.m3u8
+
+#EXTINF:-1 ,tvg-name="广西玉林真武阁" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西玉林真武阁
+https://gc2ksc.v.kcdnvip.com/gc/cntv487-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广西河池红水河上第一城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西河池红水河上第一城
+https://gcbdc.a.bdydns.com/gc/cntv494-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西崇左太平古城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西崇左太平古城
+https://gcalic.v.myalicdn.com/gc/cntv500-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="柳州稻花飘香风景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",柳州稻花飘香风景区
+https://gcalic.v.myalicdn.com/gc/cntv498-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="玉林云飞嶂风景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",玉林云飞嶂风景区
+https://gcbdc.a.bdydns.com/gc/cntv490-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贺州钟山状元峰" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",贺州钟山状元峰
+https://gc2ksc.v.kcdnvip.com/gc/cntv489-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="河池红水河第一湾" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",河池红水河第一湾
+https://gcalic.v.myalicdn.com/gc/cntv497-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="柳州岜公塘公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",柳州岜公塘公园
+https://gc2ksc.v.kcdnvip.com/gc/cntv491-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广西梧州蒙山长寿桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西梧州蒙山长寿桥
+https://gcalic.v.myalicdn.com/gc/cntv496-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贺州姑婆山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",贺州姑婆山
+https://gc2ksc.v.kcdnvip.com/gc/cntv493-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广西玉林大容山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西玉林大容山
+https://gcbdc.a.bdydns.com/gc/cntv495-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="南宁大王滩水库" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",南宁大王滩水库
+https://gcalic.v.myalicdn.com/gc/cntv492-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西北海涠洲岛" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西北海涠洲岛
+https://gc2ksc.v.kcdnvip.com/gc/cntv481-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="雨卜民族风情旅游度假村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",雨卜民族风情旅游度假村
+https://gcalic.v.myalicdn.com/gc/cntv478-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西圣堂山旅游景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西圣堂山旅游景区
+https://gcalic.v.myalicdn.com/gc/cntv477-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西百色田州古城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西百色田州古城
+https://gcbdc.a.bdydns.com/gc/cntv433-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西隆安火龙果基地" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西隆安火龙果基地
+https://gcalic.v.myalicdn.com/gc/cntv486-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西贺州富川风雨桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西贺州富川风雨桥
+https://gcbdc.a.bdydns.com/gc/cntv485-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西桂林荔江湾" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西桂林荔江湾
+https://gcalic.v.myalicdn.com/gc/cntv484-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西崇左友谊关" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西崇左友谊关
+https://gcalic.v.myalicdn.com/gc/cntv482-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西北海合浦县月饼小镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西北海合浦县月饼小镇
+https://gcalic.v.myalicdn.com/gc/cntv480-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西河池澄江河" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西河池澄江河
+https://gcalic.v.myalicdn.com/gc/cntv479-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西桂林象山南溪山景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西桂林象山南溪山景区
+https://gcbdc.a.bdydns.com/gc/cntv449-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵港平南县西江大桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",贵港平南县西江大桥
+https://gcbdc.a.bdydns.com/gc/cntv450-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西南宁古零弄拉景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西南宁古零弄拉景区
+https://gcalic.v.myalicdn.com/gc/cntv448-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="柳州中渡镇古榕码头" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",柳州中渡镇古榕码头
+https://gc2ksc.v.kcdnvip.com/gc/cntv445-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="融安长安老城区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",融安长安老城区
+https://gcalic.v.myalicdn.com/gc/cntv447-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="桂林龙胜锦绣山城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",桂林龙胜锦绣山城
+https://gc2ksc.v.kcdnvip.com/gc/cntv443-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广西梧州长洲岛" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西梧州长洲岛
+https://gcalic.v.myalicdn.com/gc/cntv444-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="桂平金田起义博物馆" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",桂平金田起义博物馆
+https://gcalic.v.myalicdn.com/gc/cntv446-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贺州文庙" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",贺州文庙
+https://gc2ksc.v.kcdnvip.com/gc/cntv442-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="桂林穿山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",桂林穿山
+https://gcalic.v.myalicdn.com/gc/cntv441-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="桂林木龙湖" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",桂林木龙湖
+https://gc2ksc.v.kcdnvip.com/gc/cntv440-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="桂林恭城红岩村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",桂林恭城红岩村
+https://gcalic.v.myalicdn.com/gc/cntv439-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西桂林遇龙河" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西桂林遇龙河
+https://gcbdc.a.bdydns.com/gc/cntv438-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西南宁大龙湖景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西南宁大龙湖景区
+https://gc2ksc.v.kcdnvip.com/gc/cntv437-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广西桂林板垒界梯田" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西桂林板垒界梯田
+https://gcalic.v.myalicdn.com/gc/cntv436-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西兴安灵渠" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西兴安灵渠
+https://gc2ksc.v.kcdnvip.com/gc/cntv435-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广西柳州凤凰岭大桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西柳州凤凰岭大桥
+https://gcalic.v.myalicdn.com/gc/cntv488-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="河池世外桃源太极湾" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",河池世外桃源太极湾
+https://gcalic.v.myalicdn.com/gc/cntv499-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西平乐三江口" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西平乐三江口
+https://gc2ksc.v.kcdnvip.com/gc/cntv405-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广西大碧头国际旅游度假区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西大碧头国际旅游度假区
+https://gctxyc.liveplay.myqcloud.com/gc/cntv404-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="柳州三江风雨桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",柳州三江风雨桥
+https://gc2ksc.v.kcdnvip.com/gc/cntv394-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="桂林玻璃田" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",桂林玻璃田
+https://gc2ksc.v.kcdnvip.com/gc/cntv402-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广西程阳八寨" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西程阳八寨
+https://gcbdc.a.bdydns.com/gc/cntv401-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西河池岜地村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西河池岜地村
+https://gcalic.v.myalicdn.com/gc/cntv434-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="古辣稻花香里" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",古辣稻花香里
+https://gcalic.v.myalicdn.com/gc/cntv483-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西柳州柳江河" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西柳州柳江河
+https://gcalic.v.myalicdn.com/gc/gxljh_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西贺州黄姚古镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西贺州黄姚古镇
+https://gc2ksc.v.kcdnvip.com/gc/hygz_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广西凌云浩坤湖" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西凌云浩坤湖
+https://gcalic.v.myalicdn.com/gc/cntv476-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西桂林龙胜梯田" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西桂林龙胜梯田
+https://gc2ksc.v.kcdnvip.com/gc/cntv443-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="广西桂林阳桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西桂林阳桥
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="广西桂林象鼻山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="广西",广西桂林象鼻山
+https://gctxyc.liveplay.myqcloud.com/gc/ztn_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="重庆巫山长江画卷" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="重庆",重庆巫山长江画卷
+https://gctxyc.liveplay.myqcloud.com/gc/qdls01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="万里长江 天生云阳" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="重庆",万里长江 天生云阳
+https://gcbdc.a.bdydns.com/gc/sgyh_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="重庆石柱中益乡小学" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="重庆",重庆石柱中益乡小学
+https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="重庆巫山长江大桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="重庆",重庆巫山长江大桥
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="四川乐山睡佛" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",四川乐山睡佛
+https://gcbdc.a.bdydns.com/gc/hkhs01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="四川乐山绿心公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",四川乐山绿心公园
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="四川成都东安湖体育公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",四川成都东安湖体育公园
+https://gc2ksc.v.kcdnvip.com/gc/btq01_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="四川九寨沟" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",四川九寨沟
+https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1_md.m3u8
+
+#EXTINF:-1 ,tvg-name="成都春熙路太古里" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",成都春熙路太古里
+https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="成都安顺廊桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",成都安顺廊桥
+https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="成都天府熊猫塔" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",成都天府熊猫塔
+https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="成都天府双塔" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",成都天府双塔
+https://gctxyc.liveplay.myqcloud.com/gc/tms01_1_md.m3u8
+
+#EXTINF:-1 ,tvg-name="达古冰川" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",达古冰川
+https://gcalic.v.myalicdn.com/gc/ztx_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="汶川映秀新城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",汶川映秀新城
+https://gc2ksc.v.kcdnvip.com/gc/wcyxxc01_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="西昌市邛海景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",西昌市邛海景区
+https://gc2ksc.v.kcdnvip.com/gc/xcqh01_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="黄龙" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",黄龙
+https://gc2ksc.v.kcdnvip.com/gc/hlwcc_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="峨眉山万佛顶" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",峨眉山万佛顶
+https://gc2ksc.v.kcdnvip.com/gc/hkts06_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="峨眉山云海日出" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",峨眉山云海日出
+https://gc2ksc.v.kcdnvip.com/gc/emsarm_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="峨眉山普贤菩萨铜像" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="四川",峨眉山普贤菩萨铜像
+https://gc2ksc.v.kcdnvip.com/gc/gccntv241-slf01_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="黄果树瀑布" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",黄果树瀑布
+https://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="六盘水野玉海度假区玻璃桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",六盘水野玉海度假区玻璃桥
+https://gcalic.v.myalicdn.com/gc/jyg01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵州安顺坝陵河大桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州安顺坝陵河大桥
+https://gcbsc.v.live.baishancdnx.cn/gc/hlwxt_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵州清镇市四季贵州景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州清镇市四季贵州景区
+https://gcbdc.a.bdydns.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵州毛尖镇高寨水库茶山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州毛尖镇高寨水库茶山
+https://gcbdc.a.bdydns.com/gc/pts01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵州新民梯田" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州新民梯田
+https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵州六盘水梅花山景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州六盘水梅花山景区
+https://gctxyc.liveplay.myqcloud.com/gc/hkylxs02_1_md.m3u8
+
+#EXTINF:-1 ,tvg-name="贵州苟坝红色文化旅游景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州苟坝红色文化旅游景区
+https://gcbdc.a.bdydns.com/gc/xdfjq01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵州318浪哨缘房车营地" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州318浪哨缘房车营地
+https://gc2ksc.v.kcdnvip.com/gc/zsslstpt_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="贵州遵义赤水大瀑布" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州遵义赤水大瀑布
+https://gc2ksc.v.kcdnvip.com/gc/zh02_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="贵州茶海之心景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州茶海之心景区
+https://gc2ksc.v.kcdnvip.com/gc/hkts01_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="贵州贵阳花果园湿地公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州贵阳花果园湿地公园
+https://gctxyc.liveplay.myqcloud.com/gc/hnttlhzjd_1_md.m3u8
+
+#EXTINF:-1 ,tvg-name="贵州开阳南江大峡谷" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州开阳南江大峡谷
+https://dh5.cntv.kcdnvip.com/asp/h5e/hls/2000/0303000a/3/default/9736e2c9f82c434685a089471dfb317a/2000.m3u8
+
+#EXTINF:-1 ,tvg-name="息烽县美丽南山田园综合体" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",息烽县美丽南山田园综合体
+https://gc2ksc.v.kcdnvip.com/gc/jhs02_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="贵州遵义桐梓杉坪景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州遵义桐梓杉坪景区
+https://gc2ksc.v.kcdnvip.com/gc/cntv400-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="贵州贵阳泉湖公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州贵阳泉湖公园
+https://gcbdc.a.bdydns.com/gc/zyqcdx01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵州云屯生态体育公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州云屯生态体育公园
+https://gcbdc.a.bdydns.com/gc/cntv399-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵州贵阳十里画廊" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州贵阳十里画廊
+https://gcbdc.a.bdydns.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="板当镇同合村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",板当镇同合村
+https://gcbdc.a.bdydns.com/gc/cntv395-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵州万峰林" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州万峰林
+https://gc2ksc.v.kcdnvip.com/gc/cntv398-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="贵州新仁苗族乡化屋村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州新仁苗族乡化屋村
+https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="贵州织金洞" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="贵州",贵州织金洞
+https://gc2ksc.v.kcdnvip.com/gc/jsh02_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="西藏林芝工布公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="西藏",西藏林芝工布公园
+https://gc2ksc.v.kcdnvip.com/gc/bsszbcs_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="云南迪庆独克宗古城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="云南",云南迪庆独克宗古城
+https://gctxyc.liveplay.myqcloud.com/gc/dhyyqyyq_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="云南普者黑风景区仙人湖" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="云南",云南普者黑风景区仙人湖
+https://gc2ksc.v.kcdnvip.com/gc/cntv396-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="云南中寨司莫拉佤族村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="云南",云南中寨司莫拉佤族村
+https://gc2ksc.v.kcdnvip.com/gc/hnttbdjd_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="云南省丽江天文观测站" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="云南",云南省丽江天文观测站
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjrys_1_md.m3u8
+
+#EXTINF:-1 ,tvg-name="云南建水双龙桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="云南",云南建水双龙桥
+https://gc2ksc.v.kcdnvip.com/gc/pshdxg01_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="玉龙雪山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="云南",玉龙雪山
+https://gc2ksc.v.kcdnvip.com/gc/ylxs11_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="青海祁连山国家公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="青海",青海祁连山国家公园
+https://gcalic.v.myalicdn.com/gc/cntv467-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="青海海北仙女湾景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="青海",青海海北仙女湾景区
+https://gcbdc.a.bdydns.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="青海湖二郎剑景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="青海",青海湖二郎剑景区
+https://dh5.cntv.kcdnvip.com/asp/h5e/hls/2000/0303000a/3/default/fe2e5e725b4d4c029a11c30dc2c6a91f/2000.m3u8
+
+#EXTINF:-1 ,tvg-name="陕西西安钟楼" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西西安钟楼
+https://gc2ksc.v.kcdnvip.com/gc/sxzl_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="陕西宝鸡太白山之眼" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西宝鸡太白山之眼
+https://gcbdc.a.bdydns.com/gc/cntv412-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="西安鄠邑区蔡家坡村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",西安鄠邑区蔡家坡村
+https://gc2ksc.v.kcdnvip.com/gc/xjtcmys_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="汉中镇巴县草坝景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",汉中镇巴县草坝景区
+https://gc2ksc.v.kcdnvip.com/gc/lsdfgfl_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="蒲城县椿林镇唐泰陵" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",蒲城县椿林镇唐泰陵
+https://gctxyc.liveplay.myqcloud.com/gc/sjzc01_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="陕西榆林杨家沟旧址" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西榆林杨家沟革命旧址
+https://gcbdc.a.bdydns.com/gc/bgws7_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="宝鸡太白县青峰峡森林公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",宝鸡太白县青峰峡森林公园
+https://gctxyc.liveplay.myqcloud.com/gc/sxtbas_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="陕西西安泾渭分明景点" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西西安泾渭分明景点
+https://gcbdc.a.bdydns.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="陕西咸阳乾陵景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西咸阳乾陵景区
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="陕西榆林石魂广场" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西榆林石魂广场
+https://gcbdc.a.bdydns.com/gc/cntv521-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="陕西商洛棣花古镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西商洛棣花古镇
+https://gc2ksc.v.kcdnvip.com/gc/cntv520-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="陕西壶口瀑布" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西壶口瀑布
+https://gcbdc.a.bdydns.com/gc/cntv519-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="陕西西安周至水街二号码头" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西西安周至水街二号码头
+https://gc2ksc.v.kcdnvip.com/gc/cntv414-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="陕西渭南白水县仓颉庙" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西渭南白水县仓颉庙
+https://gcalic.v.myalicdn.com/gc/cntv413-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="陕西宝鸡凤翔东湖" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西宝鸡凤翔东湖
+https://gcbdc.a.bdydns.com/gc/cntv408-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="陕西汉中城固县桔园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西汉中城固县桔园
+https://gc2ksc.v.kcdnvip.com/gc/cntv407-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="陕西汉中勉县诸葛街景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西汉中勉县诸葛街景区
+https://gc2ksc.v.kcdnvip.com/gc/cntv406-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="陕西安康紫阳茶山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西安康紫阳茶山
+https://gc2ksc.v.kcdnvip.com/gc/cntv411-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="陕西渭南富平县富昌大桥" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西渭南富平县富昌大桥
+https://gcbdc.a.bdydns.com/gc/cntv410-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="陕西铜川陈炉古镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="陕西",陕西铜川陈炉古镇
+https://gc2ksc.v.kcdnvip.com/gc/cntv409-zbzg_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="宁夏将台堡" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="宁夏",宁夏将台堡
+https://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="宁夏沙坡头" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="宁夏",宁夏沙坡头
+https://gcalic.v.myalicdn.com/gc/cntv466-zbzg_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="新疆喀什阿亚格曼干村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="新疆",新疆喀什阿亚格曼干村
+https://gc2ksc.v.kcdnvip.com/gc/hspyt_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="新疆那拉提空中草原" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="新疆",新疆那拉提空中草原
+https://gc2ksc.v.kcdnvip.com/gc/wgw03_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="新疆那拉提风景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="新疆",新疆那拉提风景区
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="新疆天山马牙山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="新疆",新疆天山马牙山
+https://gctxyc.liveplay.myqcloud.com/gc/hkylxs05_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="新疆天山定海神针" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="新疆",新疆天山定海神针
+https://gc2ksc.v.kcdnvip.com/gc/xjtcdhsz_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="新疆天山灯杆山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="新疆",新疆天山灯杆山
+https://gc2ksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="嘉峪关关城景区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="甘肃",嘉峪关关城景区
+https://gcbdc.a.bdydns.com/gc/dxssyt_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="鸣沙山月牙泉" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="甘肃",鸣沙山月牙泉
+https://gcbdc.a.bdydns.com/gc/dhyyqst_1/index.m3u8?contentid=2820180516001
