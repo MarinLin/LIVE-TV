@@ -23,9 +23,6 @@ https://gc2ksc.v.kcdnvip.com/gc/ljgcszsnkgc_1/index.m3u8?BR=md&region=shanghai
 #EXTINF:-1 ,tvg-name="河北秦皇岛五峰山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="河北",河北秦皇岛五峰山
 https://gcbdc.a.bdydns.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
 
-#EXTINF:-1 ,tvg-name="河北石家庄正定阳和楼" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="河北",河北石家庄正定阳和楼
-https://gcbdc.a.bdydns.com/gc/sdmzb_1/index.m3u8?contentid=2820180516001
-
 #EXTINF:-1 ,tvg-name="河北偏桥子镇大贵口村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="河北",河北偏桥子镇大贵口村
 https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8?contentid=2820180516001
 
@@ -163,6 +160,9 @@ https://gc2ksc.v.kcdnvip.com/gc/zjjybf_1/index.m3u8?BR=md&region=shanghai
 
 #EXTINF:-1 ,tvg-name="江西神山村" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="江西",江西神山村
 https://gcbsc.v.live.baishancdnx.cn/gc/djyqyl1_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="山东威海成山头" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",山东威海成山头
+https://gctxyc.liveplay.myqcloud.com/gc/drs01_1/index.m3u8?contentid=2820180516001
 
 #EXTINF:-1 ,tvg-name="山东泰山玉皇顶" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg"group-title="山东",山东泰山玉皇顶
 https://gc2ksc.v.kcdnvip.com/gc/taishan06_1/index.m3u8?BR=md&region=shanghai
