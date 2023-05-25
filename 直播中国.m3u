@@ -8,17 +8,32 @@ https://gcbdc.a.bdydns.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,tvg-name="北京司马台长城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",北京司马台长城
 https://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8?contentid=2820180516001
 
+#EXTINF:-1 ,tvg-name="北京延庆妫川广场" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",北京延庆妫川广场
+https://hls.cntv.kcdnvip.com/asp/hls/main/0303000a/3/default/49841232fe314218b45fa1e94dfd47fa/main.m3u8?maxbr=1400
+
 #EXTINF:-1 ,tvg-name="古北水镇" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",古北水镇
 https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 ,tvg-name="北京国际雕塑公园" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",北京国际雕塑公园
+https://hls.cntv.kcdnvip.com/asp/hls/main/0303000a/3/default/b76e9fdc22214d0d963214171a362add/main.m3u8?maxbr=1400
 
 #EXTINF:-1 ,tvg-name="北京海洋馆" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",北京海洋馆
 https://gc2ksc.v.kcdnvip.com/gc/hkts03_1/index.m3u8?BR=md&region=shanghai
 
+#EXTINF:-1 ,tvg-name="八达岭长城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",八达岭长城
+https://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/0e05d4a0d0924dd1b2c6b993ec2cefe2/main.m3u8?maxbr=1400
+
+#EXTINF:-1 ,tvg-name="中央电视塔" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",中央电视塔
+https://hls.cntv.kcdnvip.com/asp/hls/main/0303000a/3/default/c0db983577394706986a84dba9efe2b9/main.m3u8?maxbr=1400
+
 #EXTINF:-1 ,tvg-name="黄花城水长城" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="北京",黄花城水长城
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
 
-#EXTINF:-1 ,tvg-name="天津滨海新区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="天津",天津滨海新区
+#EXTINF:-1 ,tvg-name="天津蓟州盘山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="天津",天津蓟州盘山
 https://gc2ksc.v.kcdnvip.com/gc/ljgcszsnkgc_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 ,tvg-name="天津滨海新区" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="天津",天津滨海新区
+https://hls.cntv.kcdnvip.com/asp/hls/main/0303000a/3/default/c093e094c1194e0f9d6302c776856bd5/main.m3u8?maxbr=1400
 
 #EXTINF:-1 ,tvg-name="河北秦皇岛五峰山" tvg-logo="https://gitee.com/marinlin999/live/raw/master/tvg-logo/%20Webcast/livechina.jpg" group-title="河北",河北秦皇岛五峰山
 https://gcbdc.a.bdydns.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
